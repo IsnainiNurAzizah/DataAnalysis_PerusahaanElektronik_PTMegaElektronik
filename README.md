@@ -28,7 +28,16 @@ Dengan Mengetikkan kalimat dibawah
 ## Langkah Langkah Data Analysis PT Mega Elektronik
 1. Membuat Nama Perusahaan yang fiktif, Dalam membuat nama perusahaan fiktif maka penulis diharapkan harus membuat tabel yang berisi barang apa saja yang dijual 
 2. Mengumpulkan data, dalam mengumpulkan data penulis harus membuat data penjualan per produk, data harga per produk, kemudian tabel pendapatan dan pengeluaran
-3. Membersihkan dan Memproses Data
+3. Mengimpor data penjualan dari file CSV ke dalam dataframe pandas
+4. Data Cleaning : Menangani missing values dan duplikasi untuk memastikan kualitas data
+5. Data Transformation : Mengonversi dan memformat ulang data untuk memudahkan analisis
+6. Melakukan analisis awal untuk memahami karakteristik data dan hubungan antar variabel
+7. Modelling Data : Membuat model prediksi menggunakan algoritma yang sesuai
+8. Validasi dan Tuning Model : Mengevaluasi performa model dan mengoptimalkan hyperparameter
+9. Interpretasi dan Penyajian Hasil : Menyajikan hasil analisis dan prediksi dengan visualisasi yang informatif
+10. Deployment dan Monitoring : Menyediakan model sebagai layanan yang dapat diakses melalui API
+11. Maintenance dan Iterasi : Melakukan pembaruan dan perbaikan model secara berkala untuk menjaga akurasi dan relevansi
+
 
 
 
