@@ -8,6 +8,7 @@
 </table>
 
 ## Installation
+### Aplikasi VSCode dan Pythom
 #### pip install 
 - pandas
 - matplotlib
