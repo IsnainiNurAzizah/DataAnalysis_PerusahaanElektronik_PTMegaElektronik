@@ -45,7 +45,6 @@ Dengan Mengetikkan kalimat dibawah
 ![Figure_1](https://github.com/IsnainiNurAzizah/DataAnalysis_PerusahaanElektronik_PTMegaElektronik/assets/151497035/0c5abd22-5f18-4ce8-8bb7-435da0f1653a)
 ![Figure_2](https://github.com/IsnainiNurAzizah/DataAnalysis_PerusahaanElektronik_PTMegaElektronik/assets/151497035/1e1328cf-d9b7-4cae-a36b-d0531c41041a)
 ![Figure_3](https://github.com/IsnainiNurAzizah/DataAnalysis_PerusahaanElektronik_PTMegaElektronik/assets/151497035/9da95de0-4845-46e1-9052-268a4fb6030f)
-![Screenshot (11)](https://github.com/IsnainiNurAzizah/DataAnalysis_PerusahaanElektronik_PTMegaElektronik/assets/151497035/f6691761-6f6a-4590-bbba-4d3a0c8484ea)
 
 
 
