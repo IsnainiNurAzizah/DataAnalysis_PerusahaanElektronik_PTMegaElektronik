@@ -1,4 +1,4 @@
-## Analisis Data PerusahaanElektronik PTMegaElektronik
+## Analisis Data PerusahaanElektronik PT Mega Elektronik
 <table align="center">
   <tr><td>Nama</td><td>Isnaini Nur Azizah</td></tr> 
   <tr><td>NIM</td><td>12030122120027</td></tr>
@@ -22,7 +22,15 @@ Menggunakan Scikit-learn 0.20 adalah versi terakhir yang mendukung Python 2.7 da
 Jika Anda sudah memiliki instalasi NumPy dan SciPy yang berfungsi, cara termudah untuk menginstal scikit-learn adalah menggunakan pip
 
 Dengan Mengetikkan kalimat dibawah
+
 (pip install pandas matplotlib seaborn scikit-learn flask jsonify)
+
+## Langkah Langkah Data Analysis PT Mega Elektronik
+1. Membuat Nama Perusahaan yang fiktif, Dalam membuat nama perusahaan fiktif maka penulis diharapkan harus membuat tabel yang berisi barang apa saja yang dijual 
+2. Mengumpulkan data, dalam mengumpulkan data penulis harus membuat data penjualan per produk, data harga per produk, kemudian tabel pendapatan dan pengeluaran
+3. Membersihkan dan Memproses Data
+
+
 
 ## Grafik
 ![Figure_1](https://github.com/IsnainiNurAzizah/DataAnalysis_PerusahaanElektronik_PTMegaElektronik/assets/151497035/0c5abd22-5f18-4ce8-8bb7-435da0f1653a)
